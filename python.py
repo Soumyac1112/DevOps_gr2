@@ -1,2 +1,4 @@
 print("Hello World")
-print('TOday id August 8th')
+print('TOday is August 8th')
+for j in range(5):
+        print('*')
